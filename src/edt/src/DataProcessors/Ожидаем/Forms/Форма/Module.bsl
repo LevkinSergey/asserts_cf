@@ -1,4 +1,4 @@
-﻿//This product contains parts of asserts, which is licensed under the Apache License,
+//This product contains parts of asserts, which is licensed under the Apache License,
 //Version 2.0.
 //The license can be downloaded from
 //http://www.apache.org/licenses/LICENSE-2.0.html.
